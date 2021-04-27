@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033600759039",
+    "project_id": "esportstalk-dfc50",
+    "storage_bucket": "esportstalk-dfc50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033600759039:android:4da50e081e5585211088ca",
+        "android_client_info": {
+          "package_name": "com.jacup101.esportstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033600759039-lcfeg1tierp5tcqf0ooq4lmnvae67rsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtzcyzMGOIuJ4iLYFtn_qR2b_TZxwD45I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033600759039-lcfeg1tierp5tcqf0ooq4lmnvae67rsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
