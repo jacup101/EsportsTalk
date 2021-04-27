@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Esports Talk</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="post_type">Post Type</string>
+    <string name="add_image">Add Image</string>
+    <string name="new_post">New Post</string>
+    <string name="cancel">Cancel</string>
+    <string name="post">Post</string>
+    <string name="youtube_link">Youtube Link</string>
+    <string name="user">User</string>
+    <string name="comment_temp">Comment</string>
+    <string name="posts">Posts</string>
+    <string name="communities">Communities</string>
+    <string name="users">Users</string>
+    <string name="search">Search</string>
+    <string name="followed">Followed</string>
+    <string name="all">All</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="loading">Loading...</string>
+    <string name="follow">Follow</string>
+    <string name="searchResult">Result</string>
+    <string name="date">Date</string>
+    <string name="enter_comment">Enter Comment</string>
+</resources>
